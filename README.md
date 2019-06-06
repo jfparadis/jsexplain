@@ -100,7 +100,7 @@ a part of the test name. For example, to select only the interpreter
 run test cases for the if statement, you could use:
 `npx mocha -g 'test/language/statements/if.*interprets'`
 
-The last stable version is available he :
+The last stable version is available here :
 http://jsexplain.gforge.inria.fr/index.html
 
 <!-- Latest version of jsjsref & debugger is automatically published at:
